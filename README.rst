@@ -20,7 +20,7 @@ Welcome to python-binance-chain v0.1.20
 .. image:: https://img.shields.io/pypi/pyversions/python-binance-chain.svg
     :target: https://pypi.python.org/pypi/python-binance-chain
 
-This is an unofficial Python3 wrapper for the `Binance Chain API <https://binance-chain.github.io/api-reference/dex-api/paths.html>`_. I am in no way affiliated with Binance, use at your own risk.
+This is an unofficial Python3 wrapper for the `Binance Chain API <https://docs.bnbchain.org/docs/beaconchain/develop/api-reference/dex-api/paths>`_. I am in no way affiliated with Binance, use at your own risk.
 
 
 PyPi
@@ -58,9 +58,9 @@ Read the `Changelog <https://python-binance-chain.readthedocs.io/en/latest/chang
 Recommended Resources
 ---------------------
 
-- `Binance Chain Forum <https://community.binance.org/>`_
-- `Binance Chain Telegram <https://t.me/BinanceDEXchange>`_
-- `Binance Chain API <https://binance-chain.github.io/>`_
+- `BNB Chain Forum <https://buildnbuild.dev/>`_
+- `BNB Chain Telegram <https://t.me/BinanceDEXchange>`_
+- `Binance Chain API <https://github.com/bnb-chain/>`_
 - `Tendermint Docs <https://tendermint.com/docs/>`_
 - `Get Testnet Funds <https://www.binance.vision/tutorials/binance-dex-funding-your-testnet-account>`_
 
@@ -729,7 +729,7 @@ Node RPC Websockets
 
 See `API <https://python-binance-chain.readthedocs.io/en/latest/binance-chain.html#module-binance_chain.node_rpc.websockets>`_ docs for more information.
 
-For subscribe query examples see the `documentation here <https://docs.binance.org/api-reference/node-rpc.html#631-subscribe>`_
+For subscribe query examples see the `documentation here <https://docs.bnbchain.org/docs/beaconchain/develop/api-reference/node-rpc#631-subscribe>`_
 
 .. code:: python
 
