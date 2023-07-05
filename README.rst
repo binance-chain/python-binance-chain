@@ -1,3 +1,4 @@
+**This repo is out of maintenance and decommissioned.**
 =======================================
 Welcome to python-bnb-chain v0.1.20
 =======================================
