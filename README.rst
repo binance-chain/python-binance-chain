@@ -1,5 +1,5 @@
 =======================================
-Welcome to python-binance-chain v0.1.20
+Welcome to python-bnb-chain v0.1.20
 =======================================
 
 .. image:: https://img.shields.io/pypi/v/python-binance-chain.svg
@@ -20,7 +20,7 @@ Welcome to python-binance-chain v0.1.20
 .. image:: https://img.shields.io/pypi/pyversions/python-binance-chain.svg
     :target: https://pypi.python.org/pypi/python-binance-chain
 
-This is an unofficial Python3 wrapper for the `Binance Chain API <https://docs.bnbchain.org/docs/beaconchain/develop/api-reference/dex-api/paths>`_. I am in no way affiliated with Binance, use at your own risk.
+This is an unofficial Python3 wrapper for the `BNB Chain API <https://docs.bnbchain.org/docs/beaconchain/develop/api-reference/dex-api/paths>`_. I am in no way affiliated with BNB Chain, use at your own risk.
 
 
 PyPi
@@ -1101,7 +1101,7 @@ Thanks
 Other Exchanges
 ---------------
 
-If you use `Binance <https://www.binance.com/?ref=10099792>`_ check out my `python-binance <https://github.com/sammchardy/python-binance>`_ library.
+If you use `BNB Chain <https://www.binance.com/?ref=10099792>`_ check out my `python-binance <https://github.com/sammchardy/python-binance>`_ library.
 
 If you use `Kucoin <https://www.kucoin.com/?rcode=E42cWB>`_ check out my `python-kucoin <https://github.com/sammchardy/python-kucoin>`_ library.
 
